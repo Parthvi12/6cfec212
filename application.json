@@ -1,15 +1,18 @@
 {
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#C7F3F0",
   "icon": "product",
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
-  "createdAt": {
-    "seconds": 1648630373,
-    "nanos": 110000000
-  },
   "deleted": false
 }
